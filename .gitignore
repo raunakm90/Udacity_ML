@@ -1,0 +1,10 @@
+$null
+.idea/
+detect_spam/data/
+detect_spam/.idea/
+
+titanic_survival_exploration/.ipynb_checkpoints/
+machine-learning/
+boston_housing/.ipynb_checkpoints/
+
+*.pyc
